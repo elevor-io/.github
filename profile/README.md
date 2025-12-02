@@ -2,7 +2,7 @@
 
 Automatic blog & SEO content for early-stage technical teams.
 
-**[→ elevor.io](https://elevor.io)**
+**[→ elevor.io](https://elevor.io?utm_source=github&utm_medium=org_profile)**
 
 ---
 
@@ -26,10 +26,10 @@ Elevor is the teammate we wished we had—handling the repetitive work of conten
 
 ### Links
 
-- [Website](https://elevor.io)
-- [Blog](https://elevor.io/blog)
-- [Why We Built Elevor](https://elevor.io/blog/why-we-built-elevor)
+- [Website](https://elevor.io?utm_source=github&utm_medium=org_profile)
+- [Blog](https://elevor.io/blog?utm_source=github&utm_medium=org_profile)
+- [Why We Built Elevor](https://elevor.io/blog/why-we-built-elevor?utm_source=github&utm_medium=org_profile)
 
 ---
 
-Questions? Reach out at dj@elevor.io
+Questions? Reach out at contact@elevor.io

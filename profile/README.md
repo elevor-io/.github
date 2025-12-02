@@ -1,12 +1,16 @@
 ## Get discovered while you ship
 
+Automatic blog & SEO content for early-stage technical teams.
+
+**[→ elevor.io](https://elevor.io)**
+
+---
+
 It's never been easier to build a product. But getting found? That's still hard.
 
 Early teams move fast—shipping features, talking to users, iterating on everything. But showing up consistently where your audience looks? That takes time most founders don't have.
 
-**Elevor automates the work of being discovered.**
-
-We turn your brand's knowledge into search-ready content that publishes through GitHub. No hiring writers. No managing calendars. Just consistent visibility while you focus on building.
+Elevor automates the work of being discovered. We turn your brand's knowledge into search-ready content that publishes through GitHub—no hiring writers, no managing calendars.
 
 ### What Elevor does
 
